@@ -10,4 +10,12 @@ Programmable 4x4 Macropad with KMK
 
 - [GitHub - ncarandini/KiCad-RP-Pico: A simple repository of files needed to add a 3D footprint of the Raspberry Pi Pico board to KiCad.](https://github.com/ncarandini/KiCad-RP-Pico)
 
-- 
+### Todo (V3):
+
+- [ ] RGB diode per key
+- [ ] Serial interface plugins (UART, SPI)
+
+### V2:
+
+- [x] Chiral (flippable) board
+- [x] Columnar stagger
